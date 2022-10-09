@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤓 I'm Jark Liu （刘壮）, My hometown, Chongqing, China. A big data engineer, keen on computing and storage of big data
+
+I love play basketball , traveling ✈️, cooking and enjoying delicious food 🥘 .
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuzhuang2017)
+
