@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🤓 I'm Jark Liu （刘壮）, My hometown, Chongqing, China. A big data engineer, keen on computing and storage of big data.
+🤓 I'm Jark Liu. A big data engineer, keen on computing and storage of big data.
 
 I love play basketball 
 , traveling ✈️, cooking and enjoying delicious food 🥘 .
